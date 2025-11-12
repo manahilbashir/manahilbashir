@@ -1,59 +1,158 @@
-# 👋 Hi, I'm Manahil Bashir
+<!-- HEADER WAVE (optional)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=👋+Hi,+I'm+Manahil&color=1a1b4b&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
+-->
 
-🎓 **CS Student @ Wilfrid Laurier University**  
-💻 **Aspiring Software Developer** passionate about solving problems & creating meaningful tech  
+<div align="center">
+  <!-- HEADER_BANNER -->
+  <img width="100%" src="./assets/banner/tokyo_autumn_evening.gif" />
+  <!-- HEADER_BANNER_END -->
+</div>
 
----
-
-### ⚡ What I'm Building
-🌐 **ShelfLife** — a responsive app encouraging users to reduce food waste  
-🧩 **BetterWeb** — a Chrome extension that improves web accessibility  
-🤖 **My Auntie (TechNova 2025 Winner)** — an AI companion for postpartum women  
-🌸 **Personal Portfolio** — coming soon at [manahilb.github.io](https://manahilb.github.io)
-
----
-
-## 🛠️ Tech Stack
-
-### Core Languages:
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend Magic:
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Cloud:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Design & Productivity:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-### Developer Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<h1 align="center">✨ Manahil Bashir · she/her</h1>
+<h3 align="center">CS Student @ Wilfrid Laurier · Aspiring Software Developer</h3>
 
 ---
 
-### 🏆 Highlights
-🏅 Winner — **TechNova 2025** for *My Auntie*  
-📚 Currently learning **AI & Full Stack Development**  
-✨ Love working on projects that combine creativity and impact
+<h2>💫 About Me</h2> 
+
+<div>
+  <img align="right" width="320px" src="./assets/typing_code.png" alt="Typing code">
+  <div align="left">
+    <ul>
+      <li>🎓 3rd-year Computer Science student at Wilfrid Laurier University.</li>
+      <li>🧩 I love solving real problems with clean, practical software.</li>
+      <li>⚡ Experience with MERN, React + Node, and building data-driven tools.</li>
+      <li>🧠 Interested in accessibility, AI-powered features, and meaningful tech for people.</li>
+      <li>🌱 Currently polishing my full-stack skills and exploring DevOps & cloud tooling.</li>
+    </ul>
+  </div>
+  <br>
+  <a href="https://github.com/manahilbashir" target="_blank">
+    <img
+      src="https://komarev.com/ghpvc/?username=manahilbashir&label=Profile%20Views&color=800080&labelColor=800080&style=flat"
+      alt="Profile Views" />
+  </a>
+</div>
+
+<br>
+
+<h3 align="left">🤝 Let’s Connect</h3>
+<div align="left">
+  <!-- Gmail -->
+  <a href="mailto:manahil.b05@gmail.com">
+    <img width="48px"
+      src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960"
+      alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/manahilbashir" target="_blank" rel="noopener noreferrer">
+    <img width="48px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" />
+  </a>
+  <a href="https://manahilb.github.io" target="_blank">
+    <img width="48px"
+      src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/f0/64a8f040-e207-e01a-f2e3-2e5d75c68447/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/350x350.png?"
+      alt="Portfolio" />
+  </a>
+</div>
 
 ---
 
-### 📫 Let’s Connect
-🌐 [Portfolio](https://manahilb.github.io)  
-💼 [LinkedIn](https://www.linkedin.com/in/manahil-bashir-605595241/)  
-🐙 [GitHub](https://github.com/manahilbashir)
+<h2 align="center">🧩 Languages & Tools I’ve Worked With</h2>
+
+<p align="center">
+  <!-- Core dev -->
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,ts" /><br>
+  <!-- Web / full-stack -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,vite" /><br>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma,firebase,linux" /><br>
+</p>
+
+---
+
+<h2>📂 Highlighted Projects</h2>
+
+<ul>
+  <li><b>BetterWeb – Adaptive Accessibility Chrome Extension</b><br/>
+    <i>React, JavaScript, GPT APIs</i><br/>
+    Chrome extension that enhances web accessibility with AI-powered natural language commands and simplified browsing tools.
+  </li>
+  <br/>
+  <li><b>ShelfLife – Smart Pantry Management Web App</b><br/>
+    <i>MERN Stack, OCR, Python</i><br/>
+    Pantry app with expiry alerts, inventory tracking, and AI-assisted recipe ideas using receipt scanning and OCR.
+  </li>
+  <br/>
+  <li><b>My Auntie – AI Postpartum Companion (team project)</b><br/>
+    <i>TypeScript, Twilio, GPT APIs</i><br/>
+    An AI-powered phone line and SMS assistant that offers empathetic support and resources for postpartum women at any hour.
+  </li>
+</ul>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center" style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;"> 
+
+  <img style="height:150px;"
+    src="https://github-readme-stats.vercel.app/api?username=manahilbashir&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img style="height:150px;"
+    src="https://github-readme-streak-stats.herokuapp.com?user=manahilbashir&theme=tokyonight&hide_border=true" />
+  <img style="height:150px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manahilbashir&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+<h2>💻 Tech Stack Badges</h2>
+
+<div align="center">
+
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/>
+
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+
+</div>
+
+---
+
+<h2>🔥 My Contribution Heatmap</h2>
+<div align="center">
+  <!-- Replace with your own SVG or comment this line out if you don't use one yet -->
+  <img src="./assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- FOOTER_BANNER -->
+  <img width="100%" src="./assets/banner/bb3.gif" />
+  <!-- FOOTER_BANNER_END -->
+</div>
