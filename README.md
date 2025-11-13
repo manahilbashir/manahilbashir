@@ -77,7 +77,7 @@
     Pantry app with expiry alerts, inventory tracking, and AI-assisted recipe ideas using receipt scanning and OCR.
   </li>
   <br/>
-  <li><b>My Auntie – AI Postpartum Companion (team project)</b><br/>
+  <li><b>My Auntie – AI Postpartum Companion</b><br/>
     <i>TypeScript, Twilio, GPT APIs</i><br/>
     AI-powered phone line and SMS assistant offering empathetic support for postpartum women.
   </li>
