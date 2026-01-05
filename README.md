@@ -5,7 +5,7 @@
 
 <!-- PIXEL PINK OVERLAY (TOP HERO) -->
 <div align="center">
-  <img width="100%" src="./assets/banner/pixel_pink_overlay.gif" />
+  <img width="100%" src="https://raw.githubusercontent.com/manahilbashir/manahilbashir/main/assets/banner/pixel_pink_overlay.gif" />
 </div>
 
 <h1 align="center">🌸 Manahil Bashir · she/her</h1>
