@@ -1,54 +1,39 @@
 <!--
   hi 👋 you found my README source
-  feel free to get inspired — let’s connect 💗
+  clean. intentional. human.
 -->
 
-<!-- PIXEL PINK OVERLAY (TOP HERO) -->
+<!-- TOP HERO -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/manahilbashir/manahilbashir/main/assets/banner/pixel_pink_overlay.gif" />
+  <img width="100%" src="./assets/blacknwhite.gif" />
 </div>
 
-<h1 align="center">🌸 Manahil Bashir · she/her</h1>
+<br/>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=22&duration=4500&pause=700&color=FF77B7&center=true&vCenter=true&width=650&lines=CS+Student+@+Wilfrid+Laurier+University;Aspiring+Software+Engineer;Building+human-centered+tech"
-    alt="Typing SVG"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manahil-bashir-605595241">
-    <img src="https://img.shields.io/badge/LinkedIn-FF77B7?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:manahil.b05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF77B7?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://manahilb.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF77B7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=42&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Manahil+Bashir)](https://git.io/typing-svg)
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=manahilbashir&label=profile%20views&color=ff77b7&labelColor=ffd1e6&style=flat"
-    alt="Profile Views"
-  />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=manahilbashir&label=Profile%20Views&color=000000&style=for-the-badge)
+
+</div>
 
 ---
 
-## 💗 about me
+## About Me
 
-- 🎓 3rd-year Computer Science student at **Wilfrid Laurier University**  
-- 🧩 I enjoy building clean, practical software that solves real problems  
-- ⚡ Full-stack experience with **React, Node.js, MERN**, and data-driven tools  
-- 🧠 Interested in **accessibility, AI-powered features**, and meaningful tech  
-- 🌱 Currently growing my **backend & AI integration** skills  
+I’m **Manahil Bashir**, a **3rd-year Computer Science student** at **Wilfrid Laurier University**.
+
+I enjoy building software that:
+- feels **human**
+- solves **real problems**
+- stays **clean, deliberate, and accessible**
+
+My interests sit at the intersection of **software engineering, thoughtful design, and AI-powered systems**.
 
 ---
 
-## 🩷 languages & tools
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=light" /><br/>
@@ -58,22 +43,36 @@
 
 ---
 
-## 🎀 highlighted projects
+## Selected Work
 
 **My Auntie — AI Postpartum Support Companion**  
 _TypeScript · Twilio · GPT APIs · MongoDB_  
-An AI-powered phone + SMS companion offering empathetic, on-demand postpartum support.
+An AI-powered phone + SMS companion providing empathetic, on-demand postpartum support.
 
-**ShelfLife — Smart Pantry Management App**  
+**ShelfLife — Smart Pantry Management**  
 _MERN · OCR · Python_  
-A pantry app with expiry alerts, receipt scanning, and AI-assisted recipe suggestions.
+Pantry tracking with expiry alerts, receipt scanning, and AI-assisted recipe suggestions.
 
-**BetterWeb — Adaptive Accessibility Chrome Extension**  
+**BetterWeb — Adaptive Accessibility Extension**  
 _React · JavaScript · GPT APIs_  
-A Chrome extension that improves web accessibility using AI-powered natural language commands.
+A Chrome extension enabling AI-powered accessibility via natural language commands.
 
 ---
 
+## Connect
+
 <p align="center">
-  <sub>thanks for stopping by 💗</sub>
+  <a href="https://www.linkedin.com/in/manahil-bashir-605595241">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manahil.b05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://manahilb.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>thanks for stopping by 🖤</sub>
 </p>
