@@ -5,7 +5,7 @@
 
 <!-- TOP HERO -->
 <div align="center">
-  <img width="100%" src="./assets/blacknwhite.gif" />
+<img width="600" src="./blacknwhite.gif" alt="black and white anime gif" />
 </div>
 
 <br/>
