@@ -32,11 +32,13 @@ I'm a CS student at **Wilfrid Laurier University** with a soft spot for **UX/UI 
 
 You can usually catch me at hackathons and design events around **Waterloo and Toronto**. Outside of school, I'm building side projects, redesigning things for fun, testing new tools, or pushing random ideas a little too far just to see if they work.
 
-Fun fact: I'm a huge anime nerd. I collect figures and manga like it's a full-time job!
+Fun fact: I'm a huge anime nerd. I collect figures and manga like it's a full-time job.
 
   </td>
   </tr>
 </table>
+
+---
 
 ## Stack
 
@@ -105,7 +107,31 @@ Fun fact: I'm a huge anime nerd. I collect figures and manga like it's a full-ti
   </tr>
 </table>
 
----
+<div align="center">
+  <img src="./banner1.jpg" width="700" alt="manga bookshelf banner" />
+</div>
+
+## Currently Reading
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="./chainsaw-man.jpg" width="140" alt="Chainsaw Man cover" /><br/>
+      <sub><b>Chainsaw Man</b></sub><br/>
+      <sub><i>Tatsuki Fujimoto</i></sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="./Uzumaki.jpeg" width="140" alt="Uzumaki cover" /><br/>
+      <sub><b>Uzumaki</b></sub><br/>
+      <sub><i>Junji Ito</i></sub>
+    </td>
+    <td width="33%" align="center">
+      <img src="./hells-paradise.jpg" width="140" alt="Hell's Paradise cover" /><br/>
+      <sub><b>Hell's Paradise</b></sub><br/>
+      <sub><i>Yuji Kaku</i></sub>
+    </td>
+  </tr>
+</table>
 
 ## Connect
 
