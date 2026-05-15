@@ -28,17 +28,15 @@
     </td>
     <td width="62%">
 
-I'm a CS student at **Wilfrid Laurier University** with a soft spot for **UX/UI design**. I like working on full-stack apps, experimenting with new tools, and figuring out how to make technical ideas feel simple and intuitive on the user side too. Most of my experience so far has come from personal projects, hackathons, coursework, and internships, where I've worked with modern web tech, APIs, and real-time systems.
+I'm a CS student at **Wilfrid Laurier University** with an interest in **UX/UI design**. I like working on full-stack apps, experimenting with new tools, and figuring out how to make technical ideas feel simple and intuitive on the user side too. Most of my experience so far has come from personal projects, hackathons, coursework, and internships, where I've worked with modern web tech, APIs, and real-time systems.
 
 You can usually catch me at hackathons and design events around **Waterloo and Toronto**. Outside of school, I'm building side projects, redesigning things for fun, testing new tools, or pushing random ideas a little too far just to see if they work.
 
-Fun fact: I'm a huge anime nerd. I collect figures and manga like it's a full-time job.
+Fun fact: I'm a huge anime nerd. I collect figures and manga like it's a full-time job!
 
   </td>
   </tr>
 </table>
-
----
 
 ## Stack
 
@@ -132,6 +130,10 @@ Fun fact: I'm a huge anime nerd. I collect figures and manga like it's a full-ti
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="./banner2.jpg" width="700" alt="manga panel divider" />
+</div>
 
 ## Connect
 
